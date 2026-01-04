@@ -1,4 +1,4 @@
-## Hi there 
+## HI There I'm Navneet
 
 - Computer Science and Engineering undergraduate with strong skills in Java, Data Structures and Algorithms, and full-stack web development  
 - Experience building production-style applications using Node.js, Express.js, React, and Next.js  
